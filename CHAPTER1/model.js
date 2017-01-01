@@ -11,4 +11,4 @@ user.destory();
   The only thing a model should contain is data and the logic associated directly with that data.
   When controllers fetch data from servers or create new records, they wrap them in model instances.
 */
-
+/////TODY IS 2017.1.1
